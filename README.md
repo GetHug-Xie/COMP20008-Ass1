@@ -11,14 +11,14 @@ Part B is about word processing. I saved all files in the local folder "cricket"
 In part B I listed all files with their documentID, and wrote some program about searching for keywords in a text.
 
 A list of dependencies (the libraries, what you need to import):
-import pandas
-import argparse
-import matplotlib.pyplot
-import math
-import re
-import os
-import sys
-import nltk
-from nltk.stem import PorterStemmer
-from nltk.tokenize import sent_tokenize, word_tokenize
-from IPython.display import display
+import pandas;
+import argparse;
+import matplotlib.pyplot;
+import math;
+import re;
+import os;
+import sys;
+import nltk;
+from nltk.stem import PorterStemmer;
+from nltk.tokenize import sent_tokenize, word_tokenize;
+from IPython.display import display;
