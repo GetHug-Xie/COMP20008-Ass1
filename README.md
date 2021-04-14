@@ -9,6 +9,7 @@ This assignment contains two parts.
 In part A I built a dataframe based on the data about COVID-19, and plotted 2 graphs of case fatality rate vs confirmed new cases. 
 Part B is about word processing. I saved all files in the local folder "cricket" and access each file in that.
 In part B I listed all files with their documentID, and wrote some program about searching for keywords in a text.
+!!! Too run the codes in part B you must have the "cricket" folder, download it or access it directly. Then change the path in the original code !!!
 
 A list of dependencies (the libraries, what you need to import):
 import pandas;
@@ -22,3 +23,4 @@ import nltk;
 from nltk.stem import PorterStemmer;
 from nltk.tokenize import sent_tokenize, word_tokenize;
 from IPython.display import display;
+all files in the cricket folder
